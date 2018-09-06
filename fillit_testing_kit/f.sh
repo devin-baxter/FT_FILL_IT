@@ -1,0 +1,15 @@
+./fillit test0
+echo $'\n'
+./fillit test1
+echo $'\n'
+./fillit test2
+echo $'\n'
+./fillit test3
+echo $'\n'
+./fillit test4
+echo $'\n'
+./fillit test5
+echo $'\n'
+./fillit test6
+echo $'\n'
+./fillit test7

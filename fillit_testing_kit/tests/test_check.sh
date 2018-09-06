@@ -1,0 +1,14 @@
+./fillit test
+./fillit test2
+./fillit test3
+./fillit test4
+./fillit test5
+./fillit test7
+./fillit test8
+./fillit test8l8h
+./fillit test9
+./fillit test10
+./fillit test11
+./fillit testlarge
+./fillit testlarge2
+./fillit testlarge3
